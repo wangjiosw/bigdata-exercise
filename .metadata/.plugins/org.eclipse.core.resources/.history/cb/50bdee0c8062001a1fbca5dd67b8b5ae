@@ -1,0 +1,5 @@
+package com.sxt.hdfs.mr.wc;
+
+public class MyMapper {
+
+}

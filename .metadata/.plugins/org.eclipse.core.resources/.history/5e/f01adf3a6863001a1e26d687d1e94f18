@@ -1,0 +1,8 @@
+package com.bjsxt.tq;
+
+import org.apache.hadoop.io.IntWritable;
+import org.apache.hadoop.mapreduce.Partitioner;
+
+public class TPartitioner extends Partitioner<Tq, IntWritable> {
+
+}

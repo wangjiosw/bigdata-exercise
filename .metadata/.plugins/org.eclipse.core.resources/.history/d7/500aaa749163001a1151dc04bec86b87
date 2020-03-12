@@ -1,0 +1,9 @@
+package com.bjsxt.fd;
+
+import org.apache.hadoop.io.LongWritable;
+import org.apache.hadoop.io.Text;
+import org.apache.hadoop.mapreduce.Mapper;
+
+public class FMapper extends Mapper<LongWritable, Text, KEYOUT, VALUEOUT> {
+
+}

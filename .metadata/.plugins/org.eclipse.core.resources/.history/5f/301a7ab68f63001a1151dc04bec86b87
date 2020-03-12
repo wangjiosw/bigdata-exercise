@@ -1,0 +1,15 @@
+package com.bjsxt.fd;
+
+import org.apache.hadoop.conf.Configuration;
+import org.apache.hadoop.mapreduce.Job;
+
+public class MyFD {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Configuration conf = new Configuration();
+		Job.getInstance(conf );
+	}
+
+}

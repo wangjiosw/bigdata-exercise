@@ -1,0 +1,31 @@
+package com.bjsxt.fd;
+
+import java.io.IOException;
+
+import org.apache.hadoop.io.IntWritable;
+import org.apache.hadoop.io.LongWritable;
+import org.apache.hadoop.io.Text;
+import org.apache.hadoop.mapreduce.Mapper;
+import org.apache.hadoop.util.StringUtils;
+/**
+ * 
+tom hello hadoop cat
+world hadoop hello hive
+cat tom hive
+mr hive hello
+hive cat hadoop world hello mr
+hadoop tom hive world
+hello tom world hive mr
+
+ * @author wangji
+ *
+ */
+public class FMapper extends Mapper<LongWritable, Text, Text, IntWritable> {
+
+	@Override
+	protected void map(LongWritable key, Text value, Context context)
+			throws IOException, InterruptedException {
+		// TODO Auto-generated method stub
+		StringUtils.split(value.toString(), ' ');
+	}
+}

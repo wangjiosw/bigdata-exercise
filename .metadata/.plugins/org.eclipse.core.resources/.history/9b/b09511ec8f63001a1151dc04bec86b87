@@ -1,0 +1,17 @@
+package com.bjsxt.fd;
+
+import java.io.IOException;
+
+import org.apache.hadoop.conf.Configuration;
+import org.apache.hadoop.mapreduce.Job;
+
+public class MyFD {
+
+	public static void main(String[] args) throws IOException {
+		// TODO Auto-generated method stub
+		
+		Configuration conf = new Configuration();
+		Job.getInstance(conf );
+	}
+
+}
