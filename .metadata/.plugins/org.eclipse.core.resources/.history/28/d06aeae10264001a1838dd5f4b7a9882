@@ -17,7 +17,7 @@ public class MyFD {
 	public static void main(String[] args) throws IOException, ClassNotFoundException, InterruptedException {
 		// TODO Auto-generated method stub
 		
-		// init job
+		// init
 		Configuration conf = new Configuration();
 		Job job = Job.getInstance(conf );
 		job.setJarByClass(MyFD.class);
