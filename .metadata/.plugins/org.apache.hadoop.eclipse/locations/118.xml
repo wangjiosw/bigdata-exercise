@@ -210,7 +210,7 @@
 <property><name>yarn.app.mapreduce.am.job.task.listener.thread-count</name><value>30</value><source>programatically</source></property>
 <property><name>mapreduce.job.reduces</name><value>1</value><source>programatically</source></property>
 <property><name>mapreduce.map.sort.spill.percent</name><value>0.80</value><source>programatically</source></property>
-<property><name>eclipse.plug-in.namenode.host</name><value>node002</value><source>programatically</source></property>
+<property><name>eclipse.plug-in.namenode.host</name><value>node001</value><source>programatically</source></property>
 <property><name>dfs.datanode.drop.cache.behind.writes</name><value>false</value><source>programatically</source></property>
 <property><name>mapreduce.job.end-notification.retry.interval</name><value>1000</value><source>programatically</source></property>
 <property><name>mapreduce.jobhistory.minicluster.fixed.ports</name><value>false</value><source>programatically</source></property>
@@ -383,7 +383,7 @@
 <property><name>dfs.secondary.namenode.kerberos.internal.spnego.principal</name><value>${dfs.web.authentication.kerberos.principal}</value><source>programatically</source></property>
 <property><name>dfs.client.datanode-restart.timeout</name><value>30</value><source>programatically</source></property>
 <property><name>ftp.client-write-packet-size</name><value>65536</value><source>programatically</source></property>
-<property><name>fs.defaultFS</name><value>hdfs://node002:8020/</value><source>because fs.default.name is deprecated</source></property>
+<property><name>fs.defaultFS</name><value>hdfs://node001:8020/</value><source>because fs.default.name is deprecated</source></property>
 <property><name>mapreduce.task.merge.progress.records</name><value>10000</value><source>programatically</source></property>
 <property><name>file.client-write-packet-size</name><value>65536</value><source>programatically</source></property>
 <property><name>mapreduce.reduce.cpu.vcores</name><value>1</value><source>programatically</source></property>
@@ -455,7 +455,7 @@
 <property><name>dfs.webhdfs.enabled</name><value>true</value><source>programatically</source></property>
 <property><name>dfs.namenode.fs-limits.max-blocks-per-file</name><value>1048576</value><source>programatically</source></property>
 <property><name>dfs.datanode.du.reserved</name><value>0</value><source>programatically</source></property>
-<property><name>fs.default.name</name><value>hdfs://node002:8020/</value></property>
+<property><name>fs.default.name</name><value>hdfs://node001:8020/</value></property>
 <property><name>mapreduce.task.profile.reduces</name><value>0-2</value><source>programatically</source></property>
 <property><name>file.bytes-per-checksum</name><value>512</value><source>programatically</source></property>
 <property><name>mapreduce.job.emit-timeline-data</name><value>false</value><source>programatically</source></property>
