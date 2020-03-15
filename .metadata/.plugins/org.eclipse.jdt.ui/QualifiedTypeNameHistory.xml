@@ -44,4 +44,5 @@
 <fullyQualifiedTypeName name="com.amazonaws.services.securitytoken.model.GetFederationTokenRequest"/>
 <fullyQualifiedTypeName name="org.apache.hadoop.io.IntWritable"/>
 <fullyQualifiedTypeName name="org.apache.hadoop.io.Text"/>
+<fullyQualifiedTypeName name="java.awt.print.Printable"/>
 </qualifiedTypeNameHistroy>

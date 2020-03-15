@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
-	<item value="/Users/wangji/usr/hadoop-lib" key="org.eclipse.jdt.ui.lastextjar"/>
+	<item value="/Users/wangji/ownCloud/Software/bigdata/tools" key="org.eclipse.jdt.ui.lastextjar"/>
 	<section name="org.eclipse.ltk.ui.refactoring.settings">
 		<item value="false" key="renameSubpackages"/>
 		<item value="false" key="updateQualifiedNames"/>
@@ -79,7 +79,7 @@
 	<section name="RenameInformationPopup">
 	</section>
 	<section name="ClasspathContainerSelectionPage">
-		<item value="3" key="index"/>
+		<item value="8" key="index"/>
 	</section>
 	<section name="BuildPathsPropertyPage">
 		<item value="2" key="pageIndex"/>
@@ -117,6 +117,7 @@
 		<item value="false" key="JarManifestWizardPage.SAVE_MANIFEST"/>
 		<item value="false" key="JarPackageWizardPage.EXPORT_OUTPUT_FOLDER"/>
 		<list key="JarPackageWizardPage.DESTINATION_NAMES_ID">
+			<item value="/Users/wangji/Desktop/tfidf.jar"/>
 			<item value="/Users/wangji/Desktop/pr.jar"/>
 			<item value="/Users/wangji/Desktop/fd.jar"/>
 			<item value="/Users/wangji/Desktop/tq.jar"/>
