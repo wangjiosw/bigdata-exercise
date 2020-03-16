@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.sxt.hadoop.itemcf&apos; to &apos;Test118/src&apos;&#x0A;- Original project: &apos;testhadoop&apos;&#x0A;- Destination element: &apos;Test118/src&apos;&#x0A;- Original element: &apos;testhadoop/src/com.sxt.hadoop.itemcf&apos;" description="Copy package" destination="=Test118/src" element1="/src&lt;com.sxt.hadoop.itemcf" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1584251434467" version="1.0"/>
+</session>
