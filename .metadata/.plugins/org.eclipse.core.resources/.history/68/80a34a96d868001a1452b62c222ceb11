@@ -1,0 +1,6 @@
+package leetcode;
+
+public class ListNode {
+	private int x;
+	private int * next;
+}
