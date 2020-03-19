@@ -23,7 +23,6 @@
 <fullyQualifiedTypeName name="java.util.Calendar"/>
 <fullyQualifiedTypeName name="org.apache.hadoop.hdfs.server.journalservice.journalstatus_jsp"/>
 <fullyQualifiedTypeName name="sun.security.ssl.SSLContextImpl.TLS11Context"/>
-<fullyQualifiedTypeName name="java.lang.Integer"/>
 <fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.Partitioner"/>
 <fullyQualifiedTypeName name="org.apache.hadoop.io.WritableComparator"/>
 <fullyQualifiedTypeName name="com.bjsxt.tq.Tq"/>
@@ -45,4 +44,10 @@
 <fullyQualifiedTypeName name="org.apache.hadoop.io.IntWritable"/>
 <fullyQualifiedTypeName name="org.apache.hadoop.io.Text"/>
 <fullyQualifiedTypeName name="java.awt.print.Printable"/>
+<fullyQualifiedTypeName name="javax.xml.soap.Node"/>
+<fullyQualifiedTypeName name="java.awt.HeadlessException"/>
+<fullyQualifiedTypeName name="java.lang.Boolean"/>
+<fullyQualifiedTypeName name="leetcode.ListNode"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
 </qualifiedTypeNameHistroy>

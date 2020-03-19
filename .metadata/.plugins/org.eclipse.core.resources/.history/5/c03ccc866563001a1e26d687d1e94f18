@@ -1,7 +1,0 @@
-package com.bjsxt.tq;
-
-import org.apache.hadoop.io.WritableComparator;
-
-public class TsortComparator extends WritableComparator {
-
-}

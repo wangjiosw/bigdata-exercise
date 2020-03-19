@@ -1,7 +1,0 @@
-package com.bjsxt.fd;
-
-import org.apache.hadoop.mapreduce.Reducer;
-
-public class FReducer extends Reducer<KEYIN, VALUEIN, KEYOUT, VALUEOUT> {
-
-}
