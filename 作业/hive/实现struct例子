@@ -1,0 +1,18 @@
+
+
+
+create table test_struct(name string,label struct<price:string,pay:string,num:int>)
+row format delimited
+fields terminated by ','
+collection items terminated by '-';
+
+
+测试数据
+aaa,cheap-imm-1
+bbb,high-imm-2
+
+load data local inpath '/root/data/test_struct' into table test_struct;
+
+select * from test_struct;
+
+select name,label.num,label.pay,label.price from test_struct;

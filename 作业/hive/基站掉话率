@@ -1,0 +1,69 @@
+
+record_time,imei,cell,ph_num,call_num,drop_num,duration,drop_rate,net_type,erl
+
+
+create table cdr
+(
+record_time string,
+imei string,
+cell string,
+ph_num string,
+call_num int,
+drop_num int,
+duration int,
+drop_rate int,
+net_type string,
+erl int
+)
+row format delimited
+fields terminated by ',';
+
+
+load data local inpath '/root/data/cdr.csv' into table cdr;
+
+
+
+2、基站掉话率：找出掉线率最高的前10基站
+record_time：通话时间
+imei：基站编号
+cell：手机编号
+drop_num：掉话的秒数
+duration：通话持续总秒数
+
+
+create table cdr_result
+(
+imei string,
+drop_num int,
+duration int,
+drop_rate float
+);
+
+insert overwrite table cdr_result select imei,sum(drop_num),sum(duration),sum(drop_num)/sum(duration) from cdr group by imei; 
+
+
+create table top_cdr
+(
+imei string,
+drop_num int,
+duration int,
+drop_rate float
+);
+
+
+insert overwrite table top_cdr select * from cdr_result sort by drop_rate desc limit 10;
+
+select * from top_cdr;
+
+
+
+
+
+
+
+
+
+
+
+
+

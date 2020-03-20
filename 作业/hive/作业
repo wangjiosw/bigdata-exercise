@@ -1,0 +1,9 @@
+作业：
+1、实现struct例子
+2、基站掉话率：找出掉线率最高的前10基站
+record_time：通话时间
+imei：基站编号
+cell：手机编号
+drop_num：掉话的秒数
+duration：通话持续总秒数	
+3、使用hive实现wordcount

@@ -1,0 +1,19 @@
+
+数据：
+hadoop hello world
+hello hadoop
+hbase zookeeper
+name name name
+
+# create external table
+create external table wc
+(
+sentence string
+)
+location '/data/wordcount/input/';
+
+
+
+select t.word,count(*) from(select explode(split(sentence,' ')) as word from wc) as t group by t.word;
+
+
