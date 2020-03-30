@@ -1,0 +1,28 @@
+select explode(likes),id from psn;
+
+select count(distinct(myCol1)),count(distinct(myCol2)) from psn
+lateral view explode(likes) myTable1 as myCol1
+lateral view explode(address) myTable2 as myCol2,myCol3;
+
+create view v_psn as select * from psn;
+
+create index t1_index on table psn(name) 
+as 'org.apache.hadoop.hive.ql.index.compact.CompactIndexHandler' with deferred rebuild 
+in table t1_index_table;
+
+
+ALTER INDEX t1_index ON psn REBUILD;
+
+select * from t1_index_table;
+
+
+as：指定索引器；
+in table：指定索引表，若不指定默认生成在default__psn2_t1_index__表中
+
+create index t2_index on table psn(name) 
+as 'org.apache.hadoop.hive.ql.index.compact.CompactIndexHandler' with deferred rebuild;
+
+ALTER INDEX t2_index ON psn REBUILD;
+
+select * from default__psn_t2_index__;
+

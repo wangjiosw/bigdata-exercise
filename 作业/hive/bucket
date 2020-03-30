@@ -1,0 +1,46 @@
+tablesample(bucket x out of y)
+x:从哪个桶取数据
+y:桶的个数的倍数或者因子
+
+
+create table psn31(id int,name string,age int)
+row format delimited
+fields terminated by ',';
+
+
+
+数据:
+1,tom,11
+2,cat,22
+3,dog,33
+4,hive,44
+5,hbase,55
+6,mr,66
+7,alice,77
+8,scala,88
+
+
+load data local inpath '/root/data/bucket' into table psn31; 
+
+
+
+创建分桶表
+create table psnbucket(id int,name string,age int)
+clustered by(age) into 4 buckets
+row format delimited
+fields terminated by ',';
+
+
+insert into table psnbucket select id,name,age from psn31;
+
+抽样
+select id,name,age from psnbucket tablesample(bucket 2 out of 4 on age);
+
+
+
+
+
+
+
+
+

@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="org.junit.Before"/>
-<fullyQualifiedTypeName name="org.apache.hadoop.fs.FileSystem"/>
-<fullyQualifiedTypeName name="org.apache.hadoop.nfs.nfs3.request.MKDIR3Request"/>
-<fullyQualifiedTypeName name="org.apache.hadoop.fs.FSDataOutputStream"/>
-<fullyQualifiedTypeName name="java.io.InputStream"/>
-<fullyQualifiedTypeName name="java.io.BufferedInputStream"/>
-<fullyQualifiedTypeName name="java.io.FileInputStream"/>
 <fullyQualifiedTypeName name="org.apache.hadoop.io.IOUtils"/>
-<fullyQualifiedTypeName name="org.junit.Test"/>
 <fullyQualifiedTypeName name="com.amazonaws.services.elasticbeanstalk.model.LoadBalancer"/>
 <fullyQualifiedTypeName name="java.nio.file.ReadOnlyFileSystemException"/>
 <fullyQualifiedTypeName name="org.apache.hadoop.fs.BlockLocation"/>
@@ -27,7 +19,6 @@
 <fullyQualifiedTypeName name="org.apache.hadoop.io.WritableComparator"/>
 <fullyQualifiedTypeName name="com.bjsxt.tq.Tq"/>
 <fullyQualifiedTypeName name="javax.servlet.jsp.tagext.TagLibraryValidator"/>
-<fullyQualifiedTypeName name="org.apache.hadoop.conf.Configuration"/>
 <fullyQualifiedTypeName name="sun.tools.jar.resources.jar_pt_BR"/>
 <fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.Job"/>
 <fullyQualifiedTypeName name="com.bjsxt.fd.MyFD"/>
@@ -48,6 +39,25 @@
 <fullyQualifiedTypeName name="java.awt.HeadlessException"/>
 <fullyQualifiedTypeName name="java.lang.Boolean"/>
 <fullyQualifiedTypeName name="leetcode.ListNode"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="org.junit.Before"/>
+<fullyQualifiedTypeName name="javax.security.auth.login.Configuration"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.conf.Configuration"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.hbase.client.HBaseAdmin"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.hbase.coprocessor.BaseWALObserver"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.hbase.HTableDescriptor"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.hbase.thrift2.generated.TMutation"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.hbase.TableName"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.hbase.HColumnDescriptor"/>
+<fullyQualifiedTypeName name="org.junit.After"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.hbase.client.HTable"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.hbase.client.Put"/>
+<fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.hbase.client.Get"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.hbase.CellUtil"/>
+<fullyQualifiedTypeName name="com.google.common.primitives.Bytes"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.hbase.util.Bytes"/>
+<fullyQualifiedTypeName name="org.junit.Test"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.hbase.client.Scan"/>
 </qualifiedTypeNameHistroy>

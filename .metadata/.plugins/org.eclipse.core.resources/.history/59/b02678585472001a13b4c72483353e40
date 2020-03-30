@@ -1,0 +1,16 @@
+package com.bjsxt.hbase;
+
+import org.apache.hadoop.conf.Configuration;
+import org.apache.hadoop.hbase.client.HBaseAdmin;
+import org.junit.Before;
+
+public class HbaseDemo {
+
+	HBaseAdmin admin = null;
+	
+	@Before
+	public void init() {
+		Configuration conf = new Configuration();
+		conf.set("hbase.zookeeper.quorum", "node002,node003,node004");
+	}
+}

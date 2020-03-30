@@ -1,0 +1,57 @@
+package com.bjsxt.hbase;
+
+import java.io.IOException;
+
+import org.apache.hadoop.conf.Configuration;
+import org.apache.hadoop.hbase.HColumnDescriptor;
+import org.apache.hadoop.hbase.HTableDescriptor;
+import org.apache.hadoop.hbase.MasterNotRunningException;
+import org.apache.hadoop.hbase.TableName;
+import org.apache.hadoop.hbase.ZooKeeperConnectionException;
+import org.apache.hadoop.hbase.client.HBaseAdmin;
+import org.junit.After;
+import org.junit.Before;
+import org.junit.Test;
+
+public class HbaseDemo {
+
+	HBaseAdmin admin = null;
+	String tm = "phone";
+	
+	@Before
+	public void init() throws MasterNotRunningException, ZooKeeperConnectionException, IOException {
+		Configuration conf = new Configuration();
+		conf.set("hbase.zookeeper.quorum", "node002,node003,node004");
+		admin = new HBaseAdmin(conf);
+	}
+	
+	@Test
+	public void createTable() throws IOException {
+		HTableDescriptor desc = new HTableDescriptor(TableName.valueOf(tm));
+		HColumnDescriptor family = new HColumnDescriptor("cf".getBytes());
+		desc.addFamily(family);
+		admin.createTable(desc);
+	}
+	
+	@After
+	public void destory() throws IOException {
+		if (admin!=null) {
+			admin.close();
+		}
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
