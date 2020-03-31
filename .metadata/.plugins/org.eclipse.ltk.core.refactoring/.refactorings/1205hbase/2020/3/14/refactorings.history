@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;HbaseDemo.java&apos; to &apos;com.bjsxt.hbase.HbaseDemo.java&apos;&#x0A;- Original project: &apos;1205hbase&apos;&#x0A;- Destination element: &apos;com.bjsxt.hbase.HbaseDemo.java&apos;&#x0A;- Original element: &apos;com.bjsxt.hbase.HbaseDemo.java&apos;" description="Copy compilation unit" destination="/src&lt;com.bjsxt.hbase{HbaseDemo.java" element1="/src&lt;com.bjsxt.hbase{HbaseDemo.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1585640472205" units="1" version="1.0"/>
+</session>
