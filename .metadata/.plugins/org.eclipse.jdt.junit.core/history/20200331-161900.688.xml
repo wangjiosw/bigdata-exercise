@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="HbaseDemo.insert" project="1205hbase" tests="1" started="1" failures="0" errors="0" ignored="0">
-  <testcase name="insert" classname="com.bjsxt.hbase.HbaseDemo" time="6.992"/>
-</testrun>
