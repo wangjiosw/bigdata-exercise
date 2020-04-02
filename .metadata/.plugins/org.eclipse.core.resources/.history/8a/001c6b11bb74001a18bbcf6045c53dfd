@@ -1,0 +1,9 @@
+package com.bjsxt.wc2;
+
+import org.apache.hadoop.hbase.mapreduce.TableMapper;
+import org.apache.hadoop.io.IntWritable;
+import org.apache.hadoop.io.Text;
+
+public class WCMapper2 extends TableMapper<Text, IntWritable>{
+
+}

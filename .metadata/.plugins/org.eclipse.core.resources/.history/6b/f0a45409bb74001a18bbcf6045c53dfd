@@ -1,0 +1,7 @@
+package com.bjsxt.wc2;
+
+import org.apache.hadoop.hbase.mapreduce.TableMapper;
+
+public class WCMapper2 extends TableMapper<KEYOUT, VALUEOUT>{
+
+}
