@@ -1,9 +1,0 @@
-package com.bjsxt.wc2;
-
-import org.apache.hadoop.io.IntWritable;
-import org.apache.hadoop.io.Text;
-import org.apache.hadoop.mapreduce.Reducer;
-
-public class WCReducer2 extends Reducer<Text, IntWritable, KEYOUT, VALUEOUT> {
-
-}

@@ -1,8 +1,0 @@
-package com.bjsxt.wc2;
-
-public class MyReadWriteJob {
-
-	public static void main(String[] args) {
-		
-	}
-}

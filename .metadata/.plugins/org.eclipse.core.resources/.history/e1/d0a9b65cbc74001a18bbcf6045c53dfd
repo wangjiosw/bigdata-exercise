@@ -1,7 +1,0 @@
-package com.bjsxt.wc2;
-
-import org.apache.hadoop.mapreduce.Reducer;
-
-public class WCReducer2 extends Reducer<KEYIN, VALUEIN, KEYOUT, VALUEOUT> {
-
-}
