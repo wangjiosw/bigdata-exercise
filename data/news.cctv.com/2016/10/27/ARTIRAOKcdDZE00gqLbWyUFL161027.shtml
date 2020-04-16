@@ -1,0 +1,400 @@
+   <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta name="filetype" content="1"> 
+<meta name="publishedtype" content="1"> 
+<meta name="pagetype" content="1"> 
+
+	<meta name="author" content="李夏"> 
+	<meta name="source" content="央视网"> 
+
+
+
+<title>徐强：八年扎根VR 为孩子们造“超级教室”_新闻频道_央视网(cctv.com)</title>
+<meta name="catalogs" content="PAGEaE2bsIZHxaNjwTcJtNFv160218"> 
+	<meta name="contentid" content="ARTIRAOKcdDZE00gqLbWyUFL161027">
+
+	<meta name=keywords content="徐强 VR 超级教室 中国梦实践者">
+	<meta name=description content="徐强带着他的“VR超级教室”荣获“2016中国创业榜样”称号，他想用VR让孩子感受世界的奇妙。">
+	<SCRIPT LANGUAGE="JavaScript">
+		 var url_domainname=location.href;			
+		 var str1_dm = url_domainname.substring(7,url_domainname.length);
+		 var num_= str1_dm.indexOf("/");
+		  var  domainame_=str1_dm.substring(0,num_);
+		  var type_str=domainame_.indexOf(".");
+		  var type_=domainame_.substring(0,type_str);
+
+		var commentTitle = "徐强：八年扎根VR 为孩子们造“超级教室”"; //评论标题
+		/* 评论对象ID 20位以内的字符串 每个被评论对象不同20120420------ */
+		var itemid1="ARTIRAOKcdDZE00gqLbWyUFL161027";//正文页id，赋值给留言评论模块的参数之一
+		var commentUrl = "http://news.cctv.com/2016/10/27/ARTIRAOKcdDZE00gqLbWyUFL161027.shtml";
+		var column_id = "TOPC1455776202724655";
+		var sub_column_id = "PAGEaE2bsIZHxaNjwTcJtNFv160218";
+		var domainname = domainame_;
+		var sobey_video_flag = '';
+		var type=type_;
+		var pindao_1 = "CHAL1342173544894212";			var dateNum = (new Date()).toLocaleDateString() + " " + (new Date()).toLocaleTimeString();
+		var times_str = dateNum.replace(/年/g,'-').replace(/月/g,'-').replace(/日/g,'-').replace(/:/g,'-');
+		var new_str = times_str.replace(/ /g,'-');
+		var arr = new_str.split("-");
+		var datum = new Date(Date.UTC(arr[0],arr[1]-1,arr[2]-2,arr[3]-8,arr[4],arr[5]));
+		var timeint=datum.getTime()/1000;
+		var html;
+		var sorts_dianji = sub_column_id+','+column_id+','+itemid1.substring(0,4);/*点击量sorts值*/
+		function loadData(){
+		var urls="http://bbs.cntv.cn/cctvapi/Comment/icms_comment.php?id="+id+"&type="+type;
+		html = $.ajax({
+		url: urls,
+		async: false
+		}).responseText; 
+		html =html.replace('article_comment_count=','').replace(';','');
+		html = "评论("+html+")";
+		$("#content").html(html);
+		}
+	</SCRIPT>
+
+
+<link href="http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1469943654015864/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://r.img.cctvpic.com/library/script/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="http://r.img.cctvpic.com/library/content/tw/script/page.js"></script>
+<script type="text/javascript" src="http://r.img.cctvpic.com/library/content/tw/script/a2.js"></script>
+<script type="text/javascript" src="http://r.img.cctvpic.com/library/content/tw/script/newDJpfdc.js"></script>
+<script type="text/javascript" src="http://r.img.cctvpic.com/library/content/tw/script/share.js"></script>
+<script src="http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1469943654015864/jqBackgroundPositionAnimate.js" type="text/javascript"></script>
+<script type="text/javascript">
+		function orient() {
+			var _nupm = navigator.userAgent; //浏览器属性值
+			var bodywidth =window.screen.width;
+			if(bodywidth <= 1080){
+				if (_nupm.indexOf('Android') > -1 || _nupm.indexOf('Linux') > -1 || _nupm.indexOf('iPhone') > -1) {//移动终端
+						var pcmbid=$("meta[name='contentid']").attr('content');
+						var _pcmburl='http://news.cctv.com/special/zgmsjz/a/index.shtml?id='+pcmbid;
+						window.location.href=_pcmburl;
+				}
+			}
+		}
+		orient();
+</script>
+<script type="text/javascript">
+<!--
+	var publishDate ="20161110190020 ";
+//-->
+</script>
+</head>
+<body style=" min-width:1100px;">
+
+	<script type="text/javascript">
+		var vjAcc="860010-1102010100";
+		var wrUrl="http://cntv.wrating.com/";
+		var wrVideoUrl="http://cntv.wrating.com/";
+	</script>
+
+
+<div class="bg_top_h_tile">
+  <div class="bg_top_owner">
+	    <div id="page_head_lt31">
+		<!-- 新闻频道中国梦实践者导航包含页 --> 
+		<link type="text/css" rel="stylesheet" href="http://r.img.cctvpic.com/news/special/zgmsjz/shouye/navbaohanye/style/style.css?83853aad80231cdbf2474d65e983089d"/>
+<div class="ELMTOd1cyoBUq1D9MEAhle9A160801">
+	<div class="XUQIU15275_ind01_20160728">
+			<div style="height: 461px;" class="vspace"></div>
+				<div class="title">
+						<ul>
+                            
+							   <li class=""><a href="http://news.cctv.com/special/zgmsjz/index.shtml" target="_blank">首页</a>
+							   </li>
+
+							   <li class=""><i></i><a href="javascript:;">追梦中国</a></h3><link type="text/css" rel="stylesheet" href="http://r.img.cctvpic.com/news/special/zgmsjz/shouye/nav1baohanye/style/style.css?a7c6893f66d938457bd9a8799bd08cf0"/>
+<div class="ELMTKKLgNLBxEc3XgOtf7ntc160801">
+	<div class="con">
+		<div class="title1">
+            
+			      <a href="http://news.cctv.com/special/zgmsjz/zmzgtll/index.shtml" target="_blank">追梦中国·她力量</a><a class="line1">|</a>	
+             
+			      <a href="http://news.cctv.com/special/zgmsjz/yxl/index.shtml" target="_blank">追梦中国·影响力</a><a class="line1">|</a>	
+             
+			      <a href="http://news.cctv.com/special/zgmsjz/zmzg2016/index.shtml" target="_blank">追梦中国·新智识</a><a class="line1">|</a>	
+             
+				  <a href="http://news.cntv.cn/special/zgmsjz/zmzg/shouye/index.shtml" target="_blank">追梦中国·新春特别策划</a>				
+			
+		</div>
+   </div>
+</div>
+								</li>
+
+								<li class=""><i></i><a href="http://photo.cctv.com/jx/" target="_blank">镜像</a></h3>
+								</li>
+
+								<li class=""><i></i><a href="http://photo.cctv.com/tszgrdsh/index.shtml" target="_blank">图说中国人的生活</a></h3>
+								</li>
+
+								<li class=""><i></i><a href="http://photo.cctv.com/mlzg/" target="_blank">美丽中国</a></h3>
+								</li>
+
+								
+								
+						</ul>
+				</div>
+			<script>
+			var len = $('.XUQIU15275_ind01_20160728 ul li').length;
+			$('.XUQIU15275_ind01_20160728 ul li').mouseenter(function(){
+				var index = $(this).index();
+				$('.XUQIU15275_ind01_20160728 ul li').removeClass('cur');
+				$(this).addClass('cur');
+				$(this).find('.con').css('display','block');
+				if(index == len-1){
+				}else{
+					$('.XUQIU15275_ind01_20160728 ul li').eq(index).find('i').css('display','none');
+					index = index+1;
+					$('.XUQIU15275_ind01_20160728 ul li').eq(index).find('i').css('display','none');
+				}
+			});
+			$('.XUQIU15275_ind01_20160728 ul li').mouseleave(function(){
+				var index = $(this).index();
+				$('.XUQIU15275_ind01_20160728 ul li').removeClass('cur');
+				$(this).find('.con').css('display','none');
+				if(index == 0){
+					$('.XUQIU15275_ind01_20160728 ul li').eq(index+1).find('i').css('display','block');
+				}else{
+					$('.XUQIU15275_ind01_20160728 ul li').eq(index).find('i').css('display','block');
+					index = index+1;
+					$('.XUQIU15275_ind01_20160728 ul li').eq(index).find('i').css('display','block');
+				}
+			});
+			</script>
+	</div>
+</div>
+
+    </div>
+  <div id="page_body">
+ <div class="column_wrapper_1100">
+  	<div class="vspace" style="height: 63px;"></div>
+  <div class="cnt_bd">
+  
+		 <h1><!--repaste.title.begin-->徐强：八年扎根VR 为孩子们造“超级教室”<!--repaste.title.end--></h1>
+	
+   
+    <div class="function">
+      <span class="info"><em>
+	  
+			
+			
+				<a href="http://news.cctv.com/special/zgmsjz/all/cyym/" target="_blank">
+				创业圆梦
+				</a>
+				
+			
+			
+		
+	
+	<b></b></em><i>央视网  2016-10-28 第219期</i></span>
+      <span class="font"><a href="javascript:void(0);" title="字号缩小">A-</a><a href="javascript:void(0);" title="字号加大">A+</a></span>
+		<div class="slideDown">
+					<span class="share">我要分享<b></b></span>
+					<div class="bdsharebuttonbox"><div class="selectBox"><a href="#" class="ico02" shareID="qzone">QQ空间</a><a href="#" class="ico01" shareID="tsina">新浪微博</a><a href="#" class="ico05" shareID="tqq">腾讯微博</a><a href="#" class="ico06" shareID="sqq">QQ</a><a href="#" class="ico03" shareID="weixin">微信</a><a href="#" shareID="renren" class="ico04">人人网</a><a href="#" class="ico07" shareID="tieba">百度贴吧</a><a href="#" shareID="tqf" class="ico08">腾讯朋友</a><a href="#" shareID="kaixin001" class="ico09">开心网</a><a href="#" shareID="mshare" class="ico10">一键分享</a></div></div>
+				</div>
+				
+<script>window._bd_share_config={"common":{"bdSnsKey":{"tsina":"2078561600 ","tqq":"801099517"},"bdText":"","bdMini":"1","bdMiniList":["qzone","tsina","tqq","sqq","weixin","renren","tieba","tqf","kaixin001","mshare"],"bdPic":"","bdStyle":"0","bdSize":""},"share":{}};
+window._bd_share_main?window._bd_share_is_recently_loaded=!0:(window._bd_share_is_recently_loaded=!1,window._bd_share_main={version:"2.0",jscfg:{domain:{staticUrl:"http://bdimg.share.baidu.com/"}}}),!window._bd_share_is_recently_loaded&&(window._bd_share_main.F=window._bd_share_main.F||function(e,t){function r(e,t){if(e instanceof Array){for(var n=0,r=e.length;n<r;n++)if(t.call(e[n],e[n],n)===!1)return}else for(var n in e)if(e.hasOwnProperty(n)&&t.call(e[n],e[n],n)===!1)return}function i(e,t){this.svnMod="",this.name=null,this.path=e,this.fn=null,this.exports={},this._loaded=!1,this._requiredStack=[],this._readyStack=[],i.cache[this.path]=this;if(t&&t.charAt(0)!=="."){var n=t.split(":");n.length>1?(this.svnMod=n[0],this.name=n[1]):this.name=t}this.svnMod||(this.svnMod=this.path.split("/js/")[0].substr(1)),this.type="js",this.getKey=function(){return this.svnMod+":"+this.name},this._info={}}function o(e,t){var n=t=="css",r=document.createElement(n?"link":"script");return r}function u(t,n,r,i){function c(){c.isCalled||(c.isCalled=!0,clearTimeout(l),r&&r())}var s=o(t,n);s.nodeName==="SCRIPT"?a(s,c):f(s,c);var l=setTimeout(function(){throw new Error("load "+n+" timeout : "+t)},e._loadScriptTimeout||1e4),h=document.getElementsByTagName("head")[0];n=="css"?(s.rel="stylesheet",s.href=t,h.appendChild(s)):(s.type="text/javascript",s.src=t,h.insertBefore(s,h.firstChild))}function a(e,t){e.onload=e.onerror=e.onreadystatechange=function(){if(/loaded|complete|undefined/.test(e.readyState)){e.onload=e.onerror=e.onreadystatechange=null;if(e.parentNode){e.parentNode.removeChild(e);try{if(e.clearAttributes)e.clearAttributes();else for(var n in e)delete e[n]}catch(r){}}e=undefined,t&&t()}}}function f(e,t){e.attachEvent?e.attachEvent("onload",t):setTimeout(function(){l(e,t)},0)}function l(e,t){if(t&&t.isCalled)return;var n,r=navigator.userAgent,i=~r.indexOf("AppleWebKit"),s=~r.indexOf("Opera");if(i||s)e.sheet&&(n=!0);else if(e.sheet)try{e.sheet.cssRules&&(n=!0)}catch(o){if(o.name==="SecurityError"||o.name==="NS_ERROR_DOM_SECURITY_ERR")n=!0}setTimeout(function(){n?t&&t():l(e,t)},1)}var n="api";e.each=r,i.currentPath="",i.loadedPaths={},i.loadingPaths={},i.cache={},i.paths={},i.handlers=[],i.moduleFileMap={},i.requiredPaths={},i.lazyLoadPaths={},i.services={},i.isPathsLoaded=function(e){var t=!0;return r(e,function(e){if(!(e in i.loadedPaths))return t=!1}),t},i.require=function(e,t){e.search(":")<0&&(t||(t=n,i.currentPath&&(t=i.currentPath.split("/js/")[0].substr(1))),e=t+":"+e);var r=i.get(e,i.currentPath);if(r.type=="css")return;if(r){if(!r._inited){r._inited=!0;var s,o=r.svnMod;if(s=r.fn.call(null,function(e){return i.require(e,o)},r.exports,new h(r.name,o)))r.exports=s}return r.exports}throw new Error('Module "'+e+'" not found!')},i.baseUrl=t?t[t.length-1]=="/"?t:t+"/":"/",i.getBasePath=function(e){var t,n;return(n=e.indexOf("/"))!==-1&&(t=e.slice(0,n)),t&&t in i.paths?i.paths[t]:i.baseUrl},i.getJsPath=function(t,r){if(t.charAt(0)==="."){r=r.replace(/\/[^\/]+\/[^\/]+$/,""),t.search("./")===0&&(t=t.substr(2));var s=0;t=t.replace(/^(\.\.\/)+/g,function(e){return s=e.length/3,""});while(s>0)r=r.substr(0,r.lastIndexOf("/")),s--;return r+"/"+t+"/"+t.substr(t.lastIndexOf("/")+1)+".js"}var o,u,a,f,l,c;if(t.search(":")>=0){var h=t.split(":");o=h[0],t=h[1]}else r&&(o=r.split("/")[1]);o=o||n;var p=/\.css(?:\?|$)/i.test(t);p&&e._useConfig&&i.moduleFileMap[o][t]&&(t=i.moduleFileMap[o][t]);var t=l=t,d=i.getBasePath(t);return(a=t.indexOf("/"))!==-1&&(u=t.slice(0,a),f=t.lastIndexOf("/"),l=t.slice(f+1)),u&&u in i.paths&&(t=t.slice(a+1)),c=d+o+"/js/"+t+".js",c},i.get=function(e,t){var n=i.getJsPath(e,t);return i.cache[n]?i.cache[n]:new i(n,e)},i.prototype={load:function(){i.loadingPaths[this.path]=!0;var t=this.svnMod||n,r=window._bd_share_main.jscfg.domain.staticUrl+"static/"+t+"/",o=this,u=/\.css(?:\?|$)/i.test(this.name);this.type=u?"c_ss":"js";if (this.name=='weixin_popup.css'){this.type='css';}if (this.name=='share_style0_16.css'){this.type='css';this.name='share_style0_24.css';}var a="/"+this.type+"/"+i.moduleFileMap[t][this.name];e._useConfig&&i.moduleFileMap[t][this.name]?r+=this.type+"/"+i.moduleFileMap[t][this.name]:r+=this.type+"/"+this.name+(u?"":".js");if(e._firstScreenCSS.indexOf(this.name)>0||e._useConfig&&a==e._firstScreenJS)o._loaded=!0,o.ready();else{var f=(new Date).getTime();s.create({src:r,type:this.type,loaded:function(){o._info.loadedTime=(new Date).getTime()-f,o.type=="css"&&(o._loaded=!0,o.ready())}})}},lazyLoad:function(){var e=this.name;if(i.lazyLoadPaths[this.getKey()])this.define(),delete i.lazyLoadPaths[this.getKey()];else{if(this.exist())return;i.requiredPaths[this.getKey()]=!0,this.load()}},ready:function(e,t){var n=t?this._requiredStack:this._readyStack;if(e)this._loaded?e():n.push(e);else{i.loadedPaths[this.path]=!0,delete i.loadingPaths[this.path],this._loaded=!0,i.currentPath=this.path;if(this._readyStack&&this._readyStack.length>0){this._inited=!0;var s,o=this.svnMod;this.fn&&(s=this.fn.call(null,function(e){return i.require(e,o)},this.exports,new h(this.name,o)))&&(this.exports=s),r(this._readyStack,function(e){e()}),delete this._readyStack}this._requiredStack&&this._requiredStack.length>0&&(r(this._requiredStack,function(e){e()}),delete this._requiredStack)}},define:function(){var e=this,t=this.deps,n=this.path,s=[];t||(t=this.getDependents()),t.length?(r(t,function(t){s.push(i.getJsPath(t,e.path))}),r(t,function(t){var n=i.get(t,e.path);n.ready(function(){i.isPathsLoaded(s)&&e.ready()},!0),n.lazyLoad()})):this.ready()},exist:function(){var e=this.path;return e in i.loadedPaths||e in i.loadingPaths},getDependents:function(){var e=this,t=this.fn.toString(),n=t.match(/function\s*\(([^,]*),/i),i=new RegExp("[^.]\\b"+n[1]+"\\(\\s*('|\")([^()\"']*)('|\")\\s*\\)","g"),s=t.match(i),o=[];return s&&r(s,function(e,t){o[t]=e.substr(n[1].length+3).slice(0,-2)}),o}};var s={create:function(e){var t=e.src;if(t in this._paths)return;this._paths[t]=!0,r(this._rules,function(e){t=e.call(null,t)}),u(t,e.type,e.loaded)},_paths:{},_rules:[],addPathRule:function(e){this._rules.push(e)}};e.version="1.0",e.use=function(e,t){typeof e=="string"&&(e=[e]);var n=[],s=[];r(e,function(e,t){s[t]=!1}),r(e,function(e,o){var u=i.get(e),a=u._loaded;u.ready(function(){var e=u.exports||{};e._INFO=u._info,e._INFO&&(e._INFO.isNew=!a),n[o]=e,s[o]=!0;var i=!0;r(s,function(e){if(e===!1)return i=!1}),t&&i&&t.apply(null,n)}),u.lazyLoad()})},e.module=function(e,t,n){var r=i.get(e);r.fn=t,r.deps=n,i.requiredPaths[r.getKey()]?r.define():i.lazyLoadPaths[r.getKey()]=!0},e.pathRule=function(e){s.addPathRule(e)},e._addPath=function(e,t){t.slice(-1)!=="/"&&(t+="/");if(e in i.paths)throw new Error(e+" has already in Module.paths");i.paths[e]=t};var c=n;e._setMod=function(e){c=e||n},e._fileMap=function(t,n){if(typeof t=="object")r(t,function(t,n){e._fileMap(n,t)});else{var s=c;typeof n=="string"&&(n=[n]),t=t.indexOf("js/")==1?t.substr(4):t,t=t.indexOf("css/")==1?t.substr(5):t;var o=i.moduleFileMap[s];o||(o={}),r(n,function(e){o[e]||(o[e]=t)}),i.moduleFileMap[s]=o}},e._eventMap={},e.call=function(t,n,r){var i=[];for(var s=2,o=arguments.length;s<o;s++)i.push(arguments[s]);e.use(t,function(e){var t=n.split(".");for(var r=0,s=t.length;r<s;r++)e=e[t[r]];e&&e.apply(this,i)})},e._setContext=function(e){typeof e=="object"&&r(e,function(e,t){h.prototype[t]=i.require(e)})},e._setContextMethod=function(e,t){h.prototype[e]=t};var h=function(e,t){this.modName=e,this.svnMod=t};return h.prototype={domain:window._bd_share_main.jscfg.domain,use:function(t,n){typeof t=="string"&&(t=[t]);for(var r=t.length-1;r>=0;r--)t[r]=this.svnMod+":"+t[r];e.use(t,n)}},e._Context=h,e.addLog=function(t,n){e.use("lib/log",function(e){e.defaultLog(t,n)})},e.fire=function(t,n,r){e.use("lib/mod_evt",function(e){e.fire(t,n,r)})},e._defService=function(e,t){if(e){var n=i.services[e];n=n||{},r(t,function(e,t){n[t]=e}),i.services[e]=n}},e.getService=function(t,n,r){var s=i.services[t];if(!s)throw new Error(t+" mod didn't define any services");var o=s[n];if(!o)throw new Error(t+" mod didn't provide service "+n);e.use(t+":"+o,r)},e}({})),!window._bd_share_is_recently_loaded&&window._bd_share_main.F.module("base/min_tangram",function(e,t){var n={};n.each=function(e,t,n){var r,i,s,o=e.length;if("function"==typeof t)for(s=0;s<o;s++){i=e[s],r=t.call(n||e,s,i);if(r===!1)break}return e};var r=function(e,t){for(var n in t)t.hasOwnProperty(n)&&(e[n]=t[n]);return e};n.extend=function(){var e=arguments[0];for(var t=1,n=arguments.length;t<n;t++)r(e,arguments[t]);return e},n.domready=function(e,t){t=t||document;if(/complete/.test(t.readyState))e();else if(t.addEventListener)"interactive"==t.readyState?e():t.addEventListener("DOMContentLoaded",e,!1);else{var n=function(){n=new Function,e()};void function(){try{t.body.doScroll("left")}catch(e){return setTimeout(arguments.callee,10)}n()}(),t.attachEvent("onreadystatechange",function(){"complete"==t.readyState&&n()})}},n.isArray=function(e){return"[object Array]"==Object.prototype.toString.call(e)},t.T=n}),!window._bd_share_is_recently_loaded&&window._bd_share_main.F.module("base/class",function(e,t,n){var r=e("base/min_tangram").T;t.BaseClass=function(){var e=this,t={};e.on=function(e,n){var r=t[e];r||(r=t[e]=[]),r.push(n)},e.un=function(e,n){if(!e){t={};return}var i=t[e];i&&(n?r.each(i,function(e,t){if(t==n)return i.splice(e,1),!1}):t[e]=[])},e.fire=function(n,i){var s=t[n];s&&(i=i||{},r.each(s,function(t,n){i._result=n.call(e,r.extend({_ctx:{src:e}},i))}))}};var i={};i.create=function(e,n){return n=n||t.BaseClass,function(){n.apply(this,arguments);var i=r.extend({},this);e.apply(this,arguments),this._super=i}},t.Class=i}),!window._bd_share_is_recently_loaded&&window._bd_share_main.F.module("conf/const",function(e,t,n){t.CMD_ATTR="shareID",t.CONFIG_TAG_ATTR="data-tag",t.URLS={likeSetUrl:"http://like.baidu.com/set",commitUrl:"http://s.share.baidu.com/commit",jumpUrl:"http://s.share.baidu.com",mshareUrl:"http://s.share.baidu.com/mshare",emailUrl:"http://s.share.baidu.com/sendmail",nsClick:"http://nsclick.baidu.com/v.gif",backUrl:"http://s.share.baidu.com/back",shortUrl:"http://dwz.cn/v2cut.php"}}),!window._bd_share_is_recently_loaded&&function(){window._bd_share_main.F._setMod("api"),window._bd_share_main.F._fileMap({"/js/share.js?v=da893e3e.js":["conf/define","base/fis","base/tangrammin","base/class.js","conf/define.js","conf/const.js","config","share/api_base.js","view/view_base.js","start/router.js","component/comm_tools.js","trans/trans.js"],"/js/base/tangram.js?v=37768233.js":["base/tangram"],"/js/view/share_view.js?v=3ae6026d.js":["view/share_view"],"/js/view/slide_view.js?v=05e00d62.js":["view/slide_view"],"/js/view/like_view.js?v=df3e0eca.js":["view/like_view"],"/js/view/select_view.js?v=6f522a91.js":["view/select_view"],"/js/trans/data.js?v=17af2bd2.js":["trans/data"],"/js/trans/logger.js?v=4e448e64.js":["trans/logger"],"/js/trans/trans_bdxc.js?v=7ac21555.js":["trans/trans_bdxc"],"/js/trans/trans_bdysc.js?v=fc21acaa.js":["trans/trans_bdysc"],"/js/trans/trans_weixin.js?v=11247b13.js":["trans/trans_weixin"],"/js/share/combine_api.js?v=8d37a7b3.js":["share/combine_api"],"/js/share/like_api.js?v=d3693f0a.js":["share/like_api"],"/js/share/likeshare.js?v=e1f4fbf1.js":["share/likeshare"],"/js/share/share_api.js?v=226108fe.js":["share/share_api"],"/js/share/slide_api.js?v=ec14f516.js":["share/slide_api"],"/js/component/animate.js?v=5b737477.js":["component/animate"],"/js/component/anticheat.js?v=44b9b245.js":["component/anticheat"],"/js/component/partners.js?v=0923e848.js":["component/partners"],"/js/component/pop_base.js?v=36f92e70.js":["component/pop_base"],"/js/component/pop_dialog.js?v=d479767d.js":["component/pop_dialog"],"/js/component/pop_popup.js?v=4387b4e1.js":["component/pop_popup"],"/js/component/pop_popup_slide.js?v=b16a1f10.js":["component/pop_popup_slide"],"/js/component/qrcode.js?v=d69754a9.js":["component/qrcode"],"":[""],"":[""],"":[""],"":[""],"":[""],"":[""],"":[""],"":[""],"":[""],"":[""]}),window._bd_share_main.F._loadScriptTimeout=15e3,window._bd_share_main.F._useConfig=!0,window._bd_share_main.F._firstScreenCSS="",window._bd_share_main.F._firstScreenJS=""}(),!window._bd_share_is_recently_loaded&&window._bd_share_main.F.use("base/min_tangram",function(e){function n(e,t,n){var r=new e(n);r.setView(new t(n)),r.init(),n&&n._handleId&&(_bd_share_main.api=_bd_share_main.api||{},_bd_share_main.api[n._handleId]=r)}function r(e,r){window._bd_share_main.F.use(e,function(e,i){t.isArray(r)?t.each(r,function(t,r){n(e.Api,i.View,r)}):n(e.Api,i.View,r)})}function i(e){var n=e.common||window._bd_share_config&&_bd_share_config.common||{},r={like:{type:"like"},share:{type:"share",bdStyle:0,bdMini:2,bdSign:"on"},slide:{type:"slide",bdStyle:"1",bdMini:2,bdImg:0,bdPos:"right",bdTop:100,bdSign:"on"},image:{viewType:"list",viewStyle:"0",viewPos:"top",viewColor:"black",viewSize:"16",viewList:["qzone","tsina","tqq","renren"]},selectShare:{type:"select",bdStyle:0,bdMini:2,bdSign:"on"}},i={share:{__cmd:"",__buttonType:"",__type:"",__element:null},slide:{__cmd:"",__buttonType:"",__type:"",__element:null},image:{__cmd:"",__buttonType:"",__type:"",__element:null}};return t.each(["like","share","slide","image","selectShare"],function(s,o){e[o]&&(t.isArray(e[o])&&e[o].length>0?t.each(e[o],function(s,u){e[o][s]=t.extend({},r[o],n,u,i[o])}):e[o]=t.extend({},r[o],n,e[o],i[o]))}),e}var t=e.T;_bd_share_main.init=function(e){e=e||window._bd_share_config||{share:{}};if(e){var t=i(e);t.like&&r(["share/like_api","view/like_view"],t.like),t.share&&r(["share/share_api","view/share_view"],t.share),t.slide&&r(["share/slide_api","view/slide_view"],t.slide),t.selectShare&&r(["share/select_api","view/select_view"],t.selectShare),t.image&&r(["share/image_api","view/image_view"],t.image)}},window._bd_share_main._LogPoolV2=[],window._bd_share_main.n1=(new Date).getTime(),t.domready(function(){window._bd_share_main.n2=(new Date).getTime()+1e3,_bd_share_main.init(),setTimeout(function(){window._bd_share_main.F.use("trans/logger",function(e){e.nsClick(),e.back(),e.duration()})},3e3)})}),!window._bd_share_is_recently_loaded&&window._bd_share_main.F.module("component/comm_tools",function(e,t){var n=function(){var e=window.location||document.location||{};return e.href||""},r=function(e,t){var n=e.length,r="";for(var i=1;i<=t;i++){var s=Math.floor(n*Math.random());r+=e.charAt(s)}return r},i=function(){var e=(+(new Date)).toString(36),t=r("0123456789abcdefghijklmnopqrstuvwxyz",3);return e+t};t.getLinkId=i,t.getPageUrl=n}),!window._bd_share_is_recently_loaded&&window._bd_share_main.F.module("trans/trans",function(e,t){var n=e("component/comm_tools"),r=e("conf/const").URLS,i=function(){window._bd_share_main.F.use("base/tangram",function(e){var t=e.T;t.cookie.get("bdshare_firstime")==null&&t.cookie.set("bdshare_firstime",new Date*1,{path:"/",expires:(new Date).setFullYear(2022)-new Date})})},s=function(e){var t=e.bdUrl||n.getPageUrl();return t=t.replace(/\'/g,"%27").replace(/\"/g,"%22"),t},o=function(e){var t=(new Date).getTime()+3e3,r={click:1,url:s(e),uid:e.bdUid||"0",to:e.__cmd,type:"text",pic:e.bdPic||"",title:(e.bdText||document.title).substr(0,300),key:(e.bdSnsKey||{})[e.__cmd]||"",desc:e.bdDesc||"",comment:e.bdComment||"",relateUid:e.bdWbuid||"",searchPic:e.bdSearchPic||0,sign:e.bdSign||"on",l:window._bd_share_main.n1.toString(32)+window._bd_share_main.n2.toString(32)+t.toString(32),linkid:n.getLinkId(),firstime:a("bdshare_firstime")||""};switch(e.__cmd){case"copy":l(r);break;case"print":c();break;case"bdxc":h();break;case"bdysc":p(r);break;case"weixin":d(r);break;default:u(e,r)}window._bd_share_main.F.use("trans/logger",function(t){t.commit(e,r)})},u=function(e,t){var n=r.jumpUrl;e.__cmd=="mshare"?n=r.mshareUrl:e.__cmd=="mail"&&(n=r.emailUrl);var i=n+"?"+f(t);window.open(i)},a=function(e){if(e){var t=new RegExp("(^| )"+e+"=([^;]*)(;|$)"),n=t.exec(document.cookie);if(n)return decodeURIComponent(n[2]||null)}},f=function(e){var t=[];for(var n in e)t.push(encodeURIComponent(n)+"="+encodeURIComponent(e[n]));return t.join("&").replace(/%20/g,"+")},l=function(e){window._bd_share_main.F.use("base/tangram",function(t){var r=t.T;r.browser.ie?(window.clipboardData.setData("text",document.title+" "+(e.bdUrl||n.getPageUrl())),alert("\u6807\u9898\u548c\u94fe\u63a5\u590d\u5236\u6210\u529f\uff0c\u60a8\u53ef\u4ee5\u63a8\u8350\u7ed9QQ/MSN\u4e0a\u7684\u597d\u53cb\u4e86\uff01")):window.prompt("\u60a8\u4f7f\u7528\u7684\u662f\u975eIE\u6838\u5fc3\u6d4f\u89c8\u5668\uff0c\u8bf7\u6309\u4e0b Ctrl+C \u590d\u5236\u4ee3\u7801\u5230\u526a\u8d34\u677f",document.title+" "+(e.bdUrl||n.getPageUrl()))})},c=function(){window.print()},h=function(){window._bd_share_main.F.use("trans/trans_bdxc",function(e){e&&e.run()})},p=function(e){window._bd_share_main.F.use("trans/trans_bdysc",function(t){t&&t.run(e)})},d=function(e){window._bd_share_main.F.use("trans/trans_weixin",function(t){t&&t.run(e)})},v=function(e){o(e)};t.run=v,i()});
+</script>
+    </div>
+		
+			<!--repaste.body.begin--><p style="text-align: center;"><img src="http://p1.img.cctvpic.com/photoworkspace/contentimg/2016/10/27/2016102714534713815.jpg" alt="徐强 2016中国创业榜样" width="500" isflag="1" /></p>
+<p style="text-align: center;"><span style="font-family: KaiTi_GB2312;">徐强当选&ldquo;2016中国创业榜样&rdquo;</span></p>
+<p><strong>央视网消息 &nbsp;</strong>央视网消息 &nbsp;2016年，被扎克伯格称作VR（虚拟现实）消费元年。2008年，徐强带领团队开始专注于数字内容的开发，最早进行研发和运用的正是当下最火的&ldquo;VR&rdquo;技术。如今，徐强带着他的&ldquo;VR超级教室&rdquo;荣获&ldquo;2016中国创业榜样&rdquo;称号，他想用VR让孩子感受世界的奇妙。</p>
+<p><strong>理想丰满 现实骨感</strong></p>
+<p>徐强喜欢研究各种新技术，从小就是个技术控。读高中时，他就经常混在大学的课堂里旁听电脑技术课程，上了大学之后，对编程、三维建模、音视频编辑等各种电脑技术地学习更是十分热衷。也正是对技术的高度敏感，给徐强后来的创业带来了更大的信心。</p>
+<p>八年前的VR行业，远没有今日这般热火朝天。徐强团队面临的第一个难题就是无单可接。即使有订单，也大都是附加值低、重复性劳动的项目，公司亏损状态持续了三年。</p>
+<p>比市场和资金更让徐强头疼的是人才的匮乏。最艰难的一次是为上海世博会四川省以及成都、自贡的展馆制作网上3D动画，整个团队的技术人员几乎都无能为力，徐强连过年都在加班写程序。&nbsp;</p>
+<p>对行业的热情让他有勇气坚持下来，度过了&ldquo;VR行业最黑暗的时刻&rdquo;。&nbsp;</p>
+<p><strong>未来已来 二次创业</strong></p>
+<p>2014年，Facebook收购Oculus，全世界都在为VR沸腾。徐强一直渴望的契机来了，他却很淡定。机遇与挑战永远是相生相伴的两个兄弟，伴随热潮而来的会是行业的新一轮洗牌，徐强又坚决地开始进行二次创业。</p>
+<p>&ldquo;每天、每小时、每分钟仍然有挥之不去的危机感&rdquo;，前有巨头，后有追兵，徐强需要做的是在这个方兴未艾的领域，迅速找到自己的属地。告别单一的技术服务外包模式，基于现有VR硬件开发独立的行业应用产品，这是徐强团队转型的第一个目标。</p>
+<p>徐强把方向瞄准了教育行业，他们与青岛实验中学联合成立了国内首家&rdquo;AR/VR创新教育中心&rdquo;，以学校为目标客户的&ldquo;VR超级教室&rdquo;也由概念落地为实体。</p>
+<p><strong>&ldquo;VR超级教室&rdquo;共建教育生态体系&nbsp;</strong></p>
+<p>徐强说，VR作为一种新技术，可以改变传统教学模式，开创全新的沉浸式学习体验，实现场景互动，极大提高教育效率。</p>
+<p>地理课堂上，学生可以身处宇宙，亲眼见证地球公转与自转，瞬间感知四季变化，亲手丈量太阳高度角。生物课上，学生可以走进细胞内部，近距离观看蛋白质的转录与翻译&hellip;&hellip;</p>
+<p>&ldquo;这改变了以往课堂上老师使尽浑身解数，有些学生却很难理解的窘境，使得即使想象力不那么丰富的学生也能对知识点印象深刻，知识生动有趣，学生学习也事半功倍。&rdquo;徐强想用VR让孩子们感受奇妙的世界。</p>
+<p>&ldquo;VR+教育不仅能够满足教育知识点呈现方式的升级、高难度教学目标的生动呈现，也能满足教学实践操作和自适应探究学习的需求。这使得VR+教育从各个方面都给传统教育带来颠覆式创新力量。&rdquo;徐强正是因为&ldquo;VR超级教室&rdquo;项目，经过国家双创委多轮评审最终选定，当选&ldquo;2016中国创业榜样&rdquo;。</p>
+<p>在徐强看来，创业路上有两个重要的要素：战略与坚持。战略，给出格局和方向；而坚持，就是要耐得住寂寞，经得住考验，永远不停止探索与前行。（文/刘禛）</p><!--repaste.body.end-->
+			
+	<div class="vspace" style="height:53px;"></div>
+  </div>
+</div>
+</div>
+<div style="background:#25333e;">
+		<div class="column_wrapper_1100">
+			<!-- 新闻频道中国梦实践者底通包含页 --> 
+			<link type="text/css" rel="stylesheet" href="http://r.img.cctvpic.com/news/special/zgmsjz/shouye/ditongbaohanye/style/style.css?bb18f22a3b997c220b247f81f42d758f"/>
+<div class="ELMTT0r3Xu2Brd6UixjvapED161110">
+	<div class="XUQIU15275_ind08_20160728" style="background:#25333e;" >
+		<div class="title">
+		
+			<img src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/11/10/1478747761047_689.png">
+		
+		</div>
+        <div class="con">
+			<ul>
+			   
+					<li><a href="javascript:;">指导单位<br><i>中央网信办传播局</i></a></li>	
+				
+					<li><a href="javascript:;">总监制<br><i>钱蔚  罗琴</i></a></li>	
+				
+					<li><a href="javascript:;">监制<br><i>魏驱虎</i></a></li>	
+				
+					<li><a href="javascript:;">策划<br><i>王敬东</i></a></li>	
+				
+					<li class="last"><a href="javascript:;">联系我们<br><i>1714523629@qq.com</i></a></li>				
+				
+                <div class="clear"></div>
+			</ul>
+		</div>
+	</div>
+</div>
+		</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+/*返回*/
+$(".function .info em").hover(function(){
+		$(this).parent().addClass("info_active");
+	},function(){
+		$(this).parent().removeClass("info_active");
+});
+/*字号切换*/
+$(".cnt_bd .function .font a").eq(1).click(function(){
+		var fontSize=$(".cnt_bd p").css("font-size");
+		fontSize=parseInt(fontSize.substr(0,fontSize.length-2))+2;
+		$(".cnt_bd p").css({"font-size":fontSize+"px"});
+		$(".cnt_bd .function .font a").eq(0).removeClass("disable");
+		$(this).blur();
+	});
+$(".cnt_bd .function .font a").eq(0).click(function(){
+		var fontSize=$(".cnt_bd p").css("font-size");
+		fontSize=parseInt(fontSize.substr(0,fontSize.length-2))-2;
+		if(fontSize>10){
+		  $(".cnt_bd p").css({"font-size":fontSize+"px"});
+		}
+		if(fontSize==12){
+			$(this).addClass("disable");
+		}
+		$(this).blur();
+	});
+$(".function .info em").hover(function(){
+			$(this).parent().addClass("info_active");
+		},function(){
+			$(this).parent().removeClass("info_active");
+	});
+	//我要分享下拉菜单 
+$(".slideDown").hover(function(){
+		$(this).addClass("slideCur");
+		$(this).stop().animate({height:"440px"},"slow");
+		$(this).find(".selectBox").show();
+	},function(){
+		$(this).stop().css({height:"43px"});
+		$(this).find(".selectBox").hide();
+		$(this).removeClass("slideCur")
+	
+});
+$(".slideDown .selectBox a.ico01").mouseenter(function(){
+		$(this).css({backgroundPosition:"-37px -1px",paddingLeft:"120px"});
+		$(this).animate({backgroundPosition:"12px -1px",paddingLeft:"45px"},"fast");
+	});
+$(".slideDown .selectBox a.ico01").mouseleave(function(){
+		$(this).stop().css({backgroundPosition:"12px -1px",paddingLeft:"45px"});
+});
+$(".slideDown .selectBox a.ico02").mouseenter(function(){
+		$(this).css({backgroundPosition:"-37px -39px",paddingLeft:"120px"});
+		$(this).animate({backgroundPosition:"12px -39px",paddingLeft:"45px"},"fast");
+	});
+$(".slideDown .selectBox a.ico02").mouseleave(function(){
+		$(this).stop().css({backgroundPosition:"12px -39px",paddingLeft:"45px"});
+});
+$(".slideDown .selectBox a.ico03").mouseenter(function(){
+		$(this).css({backgroundPosition:"-37px -79px",paddingLeft:"120px"});
+		$(this).animate({backgroundPosition:"12px -79px",paddingLeft:"45px"},"fast");
+	});
+$(".slideDown .selectBox a.ico03").mouseleave(function(){
+		$(this).stop().css({backgroundPosition:"12px -79px",paddingLeft:"45px"});
+});
+$(".slideDown .selectBox a.ico04").mouseenter(function(){
+		$(this).css({backgroundPosition:"-37px -119px",paddingLeft:"120px"});
+		$(this).animate({backgroundPosition:"12px -119px",paddingLeft:"45px"},"fast");
+	});
+$(".slideDown .selectBox a.ico04").mouseleave(function(){
+		$(this).stop().css({backgroundPosition:"12px -119px",paddingLeft:"45px"});
+});
+$(".slideDown .selectBox a.ico05").mouseenter(function(){
+		$(this).css({backgroundPosition:"-37px -159px",paddingLeft:"120px"});
+		$(this).animate({backgroundPosition:"12px -159px",paddingLeft:"45px"},"fast");
+	});
+$(".slideDown .selectBox a.ico05").mouseleave(function(){
+		$(this).stop().css({backgroundPosition:"12px -159px",paddingLeft:"45px"});
+});
+$(".slideDown .selectBox a.ico06").mouseenter(function(){
+		$(this).css({backgroundPosition:"-37px 6px",paddingLeft:"120px"});
+		$(this).animate({backgroundPosition:"12px 6px",paddingLeft:"45px"},"fast");
+	});
+$(".slideDown .selectBox a.ico06").mouseleave(function(){
+		$(this).stop().css({backgroundPosition:"12px 6px",paddingLeft:"45px"});
+});
+$(".slideDown .selectBox a.ico07").mouseenter(function(){
+		$(this).css({backgroundPosition:"-37px -34px",paddingLeft:"120px"});
+		$(this).animate({backgroundPosition:"12px -34px",paddingLeft:"45px"},"fast");
+	});
+$(".slideDown .selectBox a.ico07").mouseleave(function(){
+		$(this).stop().css({backgroundPosition:"12px -34px",paddingLeft:"45px"});
+});
+$(".slideDown .selectBox a.ico08").mouseenter(function(){
+		$(this).css({backgroundPosition:"-37px -74px",paddingLeft:"120px"});
+		$(this).animate({backgroundPosition:"12px -74px",paddingLeft:"45px"},"fast");
+	});
+$(".slideDown .selectBox a.ico08").mouseleave(function(){
+		$(this).stop().css({backgroundPosition:"12px -74px",paddingLeft:"45px"});
+});
+$(".slideDown .selectBox a.ico09").mouseenter(function(){
+		$(this).css({backgroundPosition:"-37px -114px",paddingLeft:"120px"});
+		$(this).animate({backgroundPosition:"12px -114px",paddingLeft:"45px"},"fast");
+	});
+$(".slideDown .selectBox a.ico09").mouseleave(function(){
+		$(this).stop().css({backgroundPosition:"12px -114px",paddingLeft:"45px"});
+});
+$(".slideDown .selectBox a.ico10").mouseenter(function(){
+		$(this).css({backgroundPosition:"-37px -155px",paddingLeft:"120px"});
+		$(this).animate({backgroundPosition:"12px -155px",paddingLeft:"45px"},"fast");
+	});
+$(".slideDown .selectBox a.ico10").mouseleave(function(){
+		$(this).stop().css({backgroundPosition:"12px -155px",paddingLeft:"45px"});
+});
+</script>
+
+	<script type="text/javascript">
+	_vjTrack("");
+	</script>
+	<noscript>
+		<img src="http://cntv.wrating.com/a.gif?c=860010-1102010100" width="1" height="1" />
+	</noscript>
+	<div style="display:none">
+	<!--repaste.pv.begin-->860010-1102010100<!--repaste.pv.end-->
+	</div>
+
+<!-- begin:get_tv_video_2009 --> 
+	<div style="display:none">
+		<!--repaste.bizId.begin-->1<!--repaste.bizId.end-->
+		<!--repaste.subBizId.begin-->1<!--repaste.subBizId.end-->
+		<!--repaste.contentType.begin-->1<!--repaste.contentType.end-->
+	</div>
+<!-- end:get_tv_video_2009 --><SCRIPT LANGUAGE="JavaScript">flvImgUrl="";</script>
+<div style="display:none"> 
+<script type="text/javascript">
+	document.write(unescape("%3Cscript src='http://terren.cntv.cn/webdig.js?z=1' type='text/javascript'%3E%3C/script%3E"));
+</script> 
+<script type="text/javascript">
+	wd_paramtracker("_wdxid=000000000000000000000000000000000000000000");
+</script>
+
+</body>
+</html>

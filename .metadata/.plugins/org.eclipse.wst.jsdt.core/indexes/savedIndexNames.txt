@@ -1,0 +1,6 @@
+INDEX VERSION 1.3+/Users/wangji/Documents/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2944406932.index
+2878486157.index
+1646433043.index
+682480295.index
+841459354.index
