@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
-<fullyQualifiedTypeName name="org.apache.hadoop.hbase.client.Get"/>
-<fullyQualifiedTypeName name="org.apache.hadoop.hbase.CellUtil"/>
-<fullyQualifiedTypeName name="com.google.common.primitives.Bytes"/>
-<fullyQualifiedTypeName name="org.apache.hadoop.hbase.generated.regionserver.regionserver_jsp"/>
-<fullyQualifiedTypeName name="java.util.Random"/>
-<fullyQualifiedTypeName name="org.apache.hadoop.hdfs.protocol.proto.ClientNamenodeProtocolProtos.GetDataEncryptionKeyRequestProto"/>
-<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
-<fullyQualifiedTypeName name="com.sun.xml.bind.v2.schemagen.xmlschema.List"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="java.lang.Long"/>
@@ -49,15 +40,24 @@
 <fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.Reducer"/>
 <fullyQualifiedTypeName name="org.apache.hadoop.hbase.client.Put"/>
 <fullyQualifiedTypeName name="org.apache.hadoop.io.IntWritable"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="java.lang.Integer"/>
-<fullyQualifiedTypeName name="org.apache.hadoop.io.Text"/>
-<fullyQualifiedTypeName name="backtype.storm.topology.base.BaseRichSpout"/>
 <fullyQualifiedTypeName name="org.apache.commons.lang.Validate"/>
-<fullyQualifiedTypeName name="backtype.storm.tuple.Values"/>
 <fullyQualifiedTypeName name="org.apache.hadoop.hbase.thrift.TBoundedThreadPoolServer"/>
 <fullyQualifiedTypeName name="org.apache.commons.net.nntp.Threadable"/>
-<fullyQualifiedTypeName name="backtype.storm.tuple.Fields"/>
 <fullyQualifiedTypeName name="org.apache.commons.math.stat.descriptive.summary.Sum"/>
 <fullyQualifiedTypeName name="backtype.storm.Config"/>
+<fullyQualifiedTypeName name="backtype.storm.topology.base.BaseRichSpout"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.io.Text"/>
+<fullyQualifiedTypeName name="clojure.repl.re_replace"/>
+<fullyQualifiedTypeName name="backtype.storm.daemon.nimbus.newly_added_slots"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="backtype.storm.tuple.Values"/>
+<fullyQualifiedTypeName name="backtype.storm.utils.Utils"/>
+<fullyQualifiedTypeName name="clojure.walk.walk"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.hbase.mapreduce.IndexBuilder.Map"/>
+<fullyQualifiedTypeName name="org.apache.commons.collections.map.HashedMap"/>
+<fullyQualifiedTypeName name="clojure.core.count"/>
+<fullyQualifiedTypeName name="com.sxt.storm.bolt.WsplitBolt"/>
+<fullyQualifiedTypeName name="backtype.storm.tuple.Fields"/>
 </qualifiedTypeNameHistroy>
