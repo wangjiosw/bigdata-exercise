@@ -1,0 +1,13 @@
+package com.sxt.test;
+
+import backtype.storm.topology.TopologyBuilder;
+
+public class test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		TopologyBuilder tb = new TopologyBuilder();
+
+	}
+
+}
