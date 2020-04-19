@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="org.apache.hadoop.hbase.client.HTable"/>
 <fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
 <fullyQualifiedTypeName name="org.apache.hadoop.hbase.client.Get"/>
 <fullyQualifiedTypeName name="org.apache.hadoop.hbase.CellUtil"/>
@@ -60,4 +59,5 @@
 <fullyQualifiedTypeName name="org.apache.commons.net.nntp.Threadable"/>
 <fullyQualifiedTypeName name="backtype.storm.tuple.Fields"/>
 <fullyQualifiedTypeName name="org.apache.commons.math.stat.descriptive.summary.Sum"/>
+<fullyQualifiedTypeName name="backtype.storm.Config"/>
 </qualifiedTypeNameHistroy>

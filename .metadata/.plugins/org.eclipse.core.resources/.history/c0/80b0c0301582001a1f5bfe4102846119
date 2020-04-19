@@ -1,0 +1,6 @@
+package com.sxt.storm.spout;
+import backtype.storm.topology.base.BaseRichSpout;
+
+public class WcSpout extends BaseRichSpout {
+
+}

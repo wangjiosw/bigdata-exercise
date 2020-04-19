@@ -1,0 +1,24 @@
+package com.sxt.test;
+
+import com.sxt.storm.bolt.WsplitBolt;
+import com.sxt.storm.spout.WcSpout;
+
+import backtype.storm.Config;
+import backtype.storm.LocalCluster;
+import backtype.storm.topology.TopologyBuilder;
+
+public class test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		TopologyBuilder tb = new TopologyBuilder();
+		tb.setSpout("wcspout", new WcSpout());
+		tb.setBolt("wcbolt", new WsplitBolt()).shuffleGrouping("wcspout");
+		
+		// 放入本地集群
+		LocalCluster lc = new LocalCluster();
+		lc.submitTopology("wc", new Config(), tb.createTopology());
+
+	}
+
+}
