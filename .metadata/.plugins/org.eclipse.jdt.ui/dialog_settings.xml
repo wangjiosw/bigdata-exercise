@@ -162,6 +162,8 @@
 		<item value="false" key="JarManifestWizardPage.SAVE_MANIFEST"/>
 		<item value="false" key="JarPackageWizardPage.EXPORT_OUTPUT_FOLDER"/>
 		<list key="JarPackageWizardPage.DESTINATION_NAMES_ID">
+			<item value="/Users/wangji/Downloads/drpc.jar"/>
+			<item value="/Users/wangji/Downloads/wc.jar"/>
 			<item value="/Users/wangji/Desktop/tfidf.jar"/>
 			<item value="/Users/wangji/Desktop/pr.jar"/>
 			<item value="/Users/wangji/Desktop/fd.jar"/>
